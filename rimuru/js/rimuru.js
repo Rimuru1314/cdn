@@ -11,7 +11,7 @@ appendSocial({
     "icon-wangyiyun": "https://music.163.com/#/user/home?id=1702282092",
     "icon-sina": "http://weibo.com/u/7317533751",
   });
-footFish();
+//footFish();
 cheatTitle();
 magicCirle();
 
